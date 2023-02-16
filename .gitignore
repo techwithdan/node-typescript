@@ -1,0 +1,8 @@
+# Dependecy directory
+node_modules
+
+# Build
+build
+
+# ignore package-lock.json
+package-lock
