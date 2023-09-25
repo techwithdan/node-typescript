@@ -1,4 +1,4 @@
-User management application
+Node-Typescript boilerplate setup
 
 run "npm i" to install dependencies
 
